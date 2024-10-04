@@ -2,7 +2,6 @@
 <h3 align="center">game dev interesting in art! :D</h3>
 
 
-![image](https://github.com/user-attachments/assets/a3870b1e-3bcb-4475-a032-6742356d2a84)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pathong&label=Profile%20views&color=0e75b6&style=flat" alt="pathong" /> </p>
 
