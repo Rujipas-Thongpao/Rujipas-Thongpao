@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rujipas Thongpao</h1>
 <h3 align="center">game dev interesting in art! :D</h3>
 
-![image](https://github.com/user-attachments/assets/93b9534b-875b-4962-87ae-63d801de3433)
+![image](https://github.com/user-attachments/assets/34aee323-4f08-40ab-a53e-0ba3de77f514)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pathong&label=Profile%20views&color=0e75b6&style=flat" alt="pathong" /> </p>
