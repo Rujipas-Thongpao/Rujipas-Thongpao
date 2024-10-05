@@ -4,7 +4,7 @@
 ![image](https://github.com/user-attachments/assets/34aee323-4f08-40ab-a53e-0ba3de77f514)
 
 
-# Previous work
+<h3 align="left">Previous work:</h3>
 - Dungeon Crawler : dungeon procedural generator
 - Eyequest : Game Lead
 
