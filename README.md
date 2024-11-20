@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rujipas Thongpao</h1>
 <h3 align="center">game dev interesting in art! :D</h3>
 
-![image](https://github.com/user-attachments/assets/34aee323-4f08-40ab-a53e-0ba3de77f514)
+![Screenshot 2024-11-20 221608](https://github.com/user-attachments/assets/ba2a3379-ae73-4cee-bb50-70a17dc8830f)
+
 
 
 <h3 align="left">Previous work:</h3>
@@ -14,6 +15,7 @@
 <ul>
   <li>Terminal : <a href ="https://github.com/Rujipas-Thongpao/paopeaw-wezterm">Wezterm</a></li>
   <li>IDE : <a href ="https://github.com/Rujipas-Thongpao/paopeaw-nvim">NVIM</a></li>
+  <li>WM : <a href ="https://github.com/glzr-io/glazewm">Glazewm</a></li>
 </ul>
 
 
